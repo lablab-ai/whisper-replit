@@ -23,6 +23,7 @@ response = requests.request("POST", url, files=file)
 print(response.text)
 
 ```
+Read more about Whisper here: https://lablab.ai/tech/whisper
 
 ---
 
